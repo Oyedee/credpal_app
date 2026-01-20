@@ -1,3 +1,4 @@
+import 'package:credpal_app/presentation/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class MainScreen extends StatelessWidget {
@@ -5,6 +6,6 @@ class MainScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const HomeScreen();
   }
 }
