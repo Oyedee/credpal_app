@@ -2,10 +2,8 @@
 # CredPal App Assessment
 
 A Flutter application implementing the "Pay later everywhere" home screen for CredPal, featuring a responsive UI, custom widgets, and dynamic layouts.
-
+![SimulatorScreenRecording-iPhone16Plus-2026-01-20at21 58 58-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1807fbf4-17ab-4403-a59e-d1007fe4046e)
 ![Project Screenshot](assets/credpal1.png)
-![Project Screenshot](assets/credpal2.png)
-
 
 ## Features
 
